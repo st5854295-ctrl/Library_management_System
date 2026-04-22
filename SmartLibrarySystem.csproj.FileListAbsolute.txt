@@ -1,0 +1,14 @@
+C:\Users\h\concole\SmartLibrarySystem\bin\Debug\net9.0\SmartLibrarySystem.exe
+C:\Users\h\concole\SmartLibrarySystem\bin\Debug\net9.0\SmartLibrarySystem.deps.json
+C:\Users\h\concole\SmartLibrarySystem\bin\Debug\net9.0\SmartLibrarySystem.runtimeconfig.json
+C:\Users\h\concole\SmartLibrarySystem\bin\Debug\net9.0\SmartLibrarySystem.dll
+C:\Users\h\concole\SmartLibrarySystem\bin\Debug\net9.0\SmartLibrarySystem.pdb
+C:\Users\h\concole\SmartLibrarySystem\obj\Debug\net9.0\SmartLibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h\concole\SmartLibrarySystem\obj\Debug\net9.0\SmartLibrarySystem.AssemblyInfoInputs.cache
+C:\Users\h\concole\SmartLibrarySystem\obj\Debug\net9.0\SmartLibrarySystem.AssemblyInfo.cs
+C:\Users\h\concole\SmartLibrarySystem\obj\Debug\net9.0\SmartLibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\h\concole\SmartLibrarySystem\obj\Debug\net9.0\SmartLibrarySystem.dll
+C:\Users\h\concole\SmartLibrarySystem\obj\Debug\net9.0\refint\SmartLibrarySystem.dll
+C:\Users\h\concole\SmartLibrarySystem\obj\Debug\net9.0\SmartLibrarySystem.pdb
+C:\Users\h\concole\SmartLibrarySystem\obj\Debug\net9.0\SmartLibrarySystem.genruntimeconfig.cache
+C:\Users\h\concole\SmartLibrarySystem\obj\Debug\net9.0\ref\SmartLibrarySystem.dll
